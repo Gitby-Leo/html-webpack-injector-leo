@@ -1,0 +1,21 @@
+{
+    "name": "html-webpack-injector-leo",
+    "version": "1.0.0",
+    "private": false,
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "html",
+        "webpack",
+        "html-webpack-injector",
+        "html-webpack-injector-plugin",
+        "html-webpack-injector-head",
+        "html-webpack-injector-leo",
+        "html-webpack-plugin"
+    ],
+    "author": "leo",
+    "license": "ISC"
+}
