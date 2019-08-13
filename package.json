@@ -1,8 +1,14 @@
 {
     "name": "html-webpack-injector-leo",
-    "version": "1.0.0",
-    "private": false,
     "description": "",
+    "version": "1.0.0",
+    "author": "leo",
+    "license": "ISC",
+    "private": false,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Gitby-Leo/html-webpack-injector-leo"
+    },
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,7 +21,5 @@
         "html-webpack-injector-head",
         "html-webpack-injector-leo",
         "html-webpack-plugin"
-    ],
-    "author": "leo",
-    "license": "ISC"
+    ]
 }
