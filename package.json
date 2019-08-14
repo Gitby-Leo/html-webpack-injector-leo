@@ -1,6 +1,6 @@
 {
     "name": "html-webpack-injector-leo",
-    "description": "",
+    "description": "put css in head",
     "version": "1.0.0",
     "author": "leo",
     "license": "ISC",
@@ -14,12 +14,8 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
-        "html",
-        "webpack",
+        "html-webpack-plugin",
         "html-webpack-injector",
-        "html-webpack-injector-plugin",
-        "html-webpack-injector-head",
-        "html-webpack-injector-leo",
-        "html-webpack-plugin"
+        "html-webpack-injector-leo"
     ]
 }
